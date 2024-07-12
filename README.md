@@ -75,6 +75,6 @@ Distributed under the MIT License. See [LICENSE](https://github.com/BhanuRathore
  
  <table>
   <tr>
-    <td align="center"><a href="https://github.com/BhanuRathore21"><img src="https://avatars2.githubusercontent.com/u/55739302?s=400&u=1e7714cb1cbe3437a527a877486c94611f0e7ab0&v=4" width="100px;" alt=""/><br /><sub><b>Bhanu Rathore</b></sub></a><br /><a href="https://github.com/BhanuRathore21" title="github"><img src="https://img.shields.io/github/followers/BhanuRathore21?style=social"></a> <a href="(https://twitter.com/bhanurathore001)" title="twitter"><img src="https://img.shields.io/twitter/follow/bhanurathore001?label=twitter&style=social"></a></td>
+    <td align="center"><a href="https://github.com/BhanuRathore21"><img src="https://avatars.githubusercontent.com/u/112539590?s=400&u=54151a28a07df01c4b39c44b4e20c64cd133cad4&v=4" width="100px;" alt=""/><br /><sub><b>Bhanu Rathore</b></sub></a><br /><a href="https://github.com/BhanuRathore21" title="github"><img src="https://img.shields.io/github/followers/BhanuRathore21?style=social"></a> <a href="(https://twitter.com/bhanurathore001)" title="twitter"><img src="https://img.shields.io/twitter/follow/bhanurathore001?label=twitter&style=social"></a></td>
    <tr>
   <table>
